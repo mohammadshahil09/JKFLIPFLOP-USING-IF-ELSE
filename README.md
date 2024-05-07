@@ -83,11 +83,11 @@ endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
 
-![image](https://github.com/mohammadshahil09/JKFLIPFLOP-USING-IF-ELSE/assets/145742927/929edfa6-881d-4cb1-90cd-08fe3e0af8a4)
+![image](https://github.com/keerthanaguttha/JKFLIPFLOP-USING-IF-ELSE/assets/145742927/929edfa6-881d-4cb1-90cd-08fe3e0af8a4)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![image](https://github.com/mohammadshahil09/JKFLIPFLOP-USING-IF-ELSE/assets/145742927/6f94dfb8-b308-4cba-9ff4-7377e79780b2)
+![image](https://github.com/keerthanaguttha/JKFLIPFLOP-USING-IF-ELSE/assets/145742927/6f94dfb8-b308-4cba-9ff4-7377e79780b2)
 
 **RESULTS**
 
